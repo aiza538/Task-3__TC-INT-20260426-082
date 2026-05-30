@@ -36,32 +36,32 @@ Press Ctrl + Click on http://localhost:5500/
 ## How to Test Offline Feature
 
 Step Action
-1 Open the app normally (internet on)
-2 Turn off WiFi or enable Airplane mode
-3 Add a job (fill form → Create Job)
-4 Job shows "Pending Sync" (orange badge)
-5 Turn WiFi back on
-6 Jobs sync automatically
+1 Open the app normally (internet on),
+2 Turn off WiFi or enable Airplane mode,
+3 Add a job (fill form → Create Job),
+4 Job shows "Pending Sync" (orange badge),
+5 Turn WiFi back on,
+6 Jobs sync automatically,
 7 Or click "Sync Now" button in navbar
 
 ## Sync Messages
 
-Situation Message
-No jobs added No jobs to sync
+Situation Message,
+No jobs added No jobs to sync,
 All jobs already synced All jobs already synced!
-Syncing pending jobs Syncing X jobs...
-Sync completed Synced X jobs!
+,Syncing pending jobs Syncing X jobs...
+,Sync completed Synced X jobs!
 
 ## Packages Installed
 
 Package Purpose
-react UI framework
-react-dom DOM rendering
-dexie IndexedDB storage
-lucide-react Icons
-react-hot-toast Notifications
-vite Build tool
-vite-plugin-pwa PWA support
+react= UI framework,
+react-dom= DOM rendering,
+dexie= IndexedDB storage,
+lucide-react= Icons,
+react-hot-toast= Notifications,
+vite= Build tool,
+vite-plugin-pwa= PWA support
 
 ## Project Structure
 
