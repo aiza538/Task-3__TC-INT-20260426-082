@@ -65,27 +65,26 @@ vite-plugin-pwa= PWA support
 
 ## Project Structure
 
-FieldsOps Pro
+FieldsOps Pro,
 src/
 ├── components/
-│ ├── Navbar.jsx → Navigation bar
-│ ├── Dashboard.jsx → Home page with stats
-│ ├── JobsList.jsx → All jobs list
-│ ├── AddJobForm.jsx → Create new job form
-│ ├── Settings.jsx → App settings
-│ └── OfflineAlert.jsx → Offline mode alert
+│ ├── Navbar.jsx → Navigation bar,
+│ ├── Dashboard.jsx → Home page with stats,
+│ ├── JobsList.jsx → All jobs list,
+│ ├── AddJobForm.jsx → Create new job form,
+│ ├── Settings.jsx → App settings,
+│ └── OfflineAlert.jsx → Offline mode alert,
 ├── db/
-│ └── database.js → IndexedDB setup
-├── App.jsx → Main app logic
-├── main.jsx → Entry point
-└── index.css → Global styles
-
+│ └── database.js → IndexedDB setup,
+├── App.jsx → Main app logic,
+├── main.jsx → Entry point,
+└── index.css → Global styles,
 public/
-├── sw.js → Service worker
-└── manifest.json → PWA config
-index.html
-README.md
-package.json
+├── sw.js → Service worker,
+└── manifest.json → PWA config,
+index.html,
+README.md,
+package.json,
 vite.config.js
 
 ### Submission Info
