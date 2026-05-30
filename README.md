@@ -90,8 +90,8 @@ vite.config.js
 
 ### Submission Info
 
-Task ID: FWD-6
-Task Title: High-Performance Offline-First Progressive Web App for Field Operations
-Submitted To: TEYZIX CORE
-Submitted by: Aiza Nadeem (TC-INT-20260426-082)
+Task ID: FWD-6,
+Task Title: High-Performance Offline-First Progressive Web App for Field Operations,
+Submitted To: TEYZIX CORE,
+Submitted by: Aiza Nadeem (TC-INT-20260426-082),
 Date: 31th May 2026
